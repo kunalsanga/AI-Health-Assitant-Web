@@ -10,11 +10,11 @@ Appointment Scheduler: Simplify booking consultations with healthcare profession
 Conversational AI: Chat with an AI assistant for quick health-related queries.
 Secure & Scalable: Built with robust backend technologies and cloud integration for seamless performance.
 (Technologies)
-Frontend: HTML, CSS, JavaScript (React)
-Backend: Node.js / Flask / Django (Choose accordingly)
-AI/ML: TensorFlow / PyTorch / OpenAI API
-Database: MongoDB / PostgreSQL
-Hosting: AWS / Azure / Heroku
-Vision
+Frontend: HTML, CSS, JavaScript.
+Backend: Node.js
+AI/ML: TensorFlow / PyTorch / OpenAI / Gemini .
+Database: MongoDB
+Hosting: local hosting
+(Vision)
 Empowering individuals to take charge of their health with AI-driven insights and a user-friendly interface.
 
